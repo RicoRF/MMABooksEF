@@ -1,4 +1,4 @@
-namespace MMABooksEF
+namespace MMABooks.EF
 {
     internal static class Program
     {
